@@ -1,5 +1,5 @@
 ##
-##  SoundFX -- Sound Effect Collection
+##  SoundVM -- Sound Voice-Message Collection
 ##  Copyright (c) 2020-2021 Dr. Ralf S. Engelschall <rse@engelschall.com>
 ##
 ##  Permission is hereby granted, free of charge, to any person obtaining

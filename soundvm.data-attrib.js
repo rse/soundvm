@@ -1,5 +1,5 @@
 /*
-**  SoundVM -- Sound Voice Message Collection
+**  SoundVM -- Sound Voice-Message Collection
 **  Copyright (c) 2022 Dr. Ralf S. Engelschall <rse@engelschall.com>
 **
 **  Permission is hereby granted, free of charge, to any person obtaining
@@ -37,7 +37,7 @@ const glob = require("glob")
             info[id] = []
         info[id].push(cfg)
     }
-    let html = "This software uses the <a href=\"https://npmjs.com/@rse/soundvm\">SoundVM</a> Sound Voice Message Collection.\n"
+    let html = "This software uses the <a href=\"https://npmjs.com/@rse/soundvm\">SoundVM</a> Sound Voice-Message Collection.\n"
     for (const id of Object.keys(info).sort()) {
         html += `SoundVM is based on the following <a href="${info[id][0].LicenseURL}">${info[id][0].LicenseName}</a> licensed sound effects:\n`
         let first = true

@@ -1,5 +1,5 @@
 /*
-**  SoundVM -- Sound Voice Message Collection
+**  SoundVM -- Sound Voice-Message Collection
 **  Copyright (c) 2022 Dr. Ralf S. Engelschall <rse@engelschall.com>
 **
 **  Permission is hereby granted, free of charge, to any person obtaining

@@ -2,7 +2,7 @@
 SoundVM
 =======
 
-Sound Voice Message Collection
+Sound Voice-Message Collection
 
 <p/>
 <img src="https://nodei.co/npm/@rse/soundvm.png?downloads=true&stars=true" alt=""/>
