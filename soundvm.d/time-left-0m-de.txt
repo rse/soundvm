@@ -1,0 +1,4 @@
+Sound-Origin:    https://voicemaker.in/ ("Achtung, deine Zeit ist nun abgelaufen.")
+Sound-Copyright: Voicemaker (2022)
+License-Name:    Voicemaker ("Voicemaker allows you to redistribute your generated audio files", "The converted audio files can be shared worldwide on any platform.")
+License-URL:     https://voicemaker.in/
